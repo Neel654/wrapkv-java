@@ -45,7 +45,6 @@ v
 ```bash
 git clone https://github.com/Neel654/wrapkv-java.git
 cd warpkv-java
-Build with Gradle:
 
 Build with Gradle:
 ./gradlew build
